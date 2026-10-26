@@ -1,0 +1,29 @@
+Voice clips downloaded from myinstants.com (user-uploaded clips from the Naruto
+anime; copyrighted audio, not cleared for monetized use). Trimmed + loudness-normalized.
+
+  naruto/rasengan.wav            https://www.myinstants.com/media/sounds/naruto-rasengan-voice.mp3
+  naruto/shadow_clone_jutsu.wav  https://www.myinstants.com/media/sounds/naruto_shadow_clones.mp3   (only the part before "Kage Bunshin")
+  sasuke/fireball_jutsu.wav      https://www.myinstants.com/media/sounds/loko-low-co.mp3   (only the "Katon!" part)
+
+Politics roster: real clips of the politicians, also from myinstants.com
+(user uploads cut from news/campaign/TV footage; copyrighted, not cleared for
+monetized use). Trimmed + loudness-normalized (-14 LUFS).
+
+  lula/discurso.wav              https://www.myinstants.com/media/sounds/lula-picanha.mp3   (only "Agora, companheiros...")
+  lula/picanha_e_cervejinha.wav  https://www.myinstants.com/media/sounds/lula-picanha-e-cerveja.mp3
+  lula/volta_por_cima.wav        https://www.myinstants.com/media/sounds/faz-o-l-vinheta.mp3   ("Faz o L!")
+  flavio/arminha.wav             https://www.myinstants.com/media/sounds/flavio-bolsonaro-sobre-pt-lula.mp3   ("Vou acabar com você!")
+  flavio/motociata.wav           https://www.myinstants.com/media/sounds/bibibimito.mp3   ("Bi-bi-bi... Mito!" chant, not Flávio's own voice)
+
+Sound effects for the politics roster (sounds/sfx/, from myinstants.com, trimmed):
+  arminha_shot.wav  https://www.myinstants.com/media/sounds/tiro-glock.mp3
+  motociata.wav     https://www.myinstants.com/media/sounds/moto-acelerando_qthCaHv.mp3
+  snore.wav         https://www.myinstants.com/media/sounds/human-snoring-ronco.mp3
+  beer_open.wav     https://www.myinstants.com/media/sounds/abrindo-latinha.mp3
+  cheer.wav         https://www.myinstants.com/media/sounds/efeito-aplausos-masculino.mp3
+
+Attack on Titan clips (same source and terms; trimmed + peak-normalized to -2 dB):
+  levi/odm_gear.wav              https://www.myinstants.com/media/sounds/odm-shot.mp3
+  levi/flurry_of_slashes.wav     https://www.myinstants.com/media/sounds/odm-nape.mp3   (first 1.4 s)
+  beast_titan/rock_throw.wav     https://www.myinstants.com/media/sounds/beast-titan-roar.mp3   (1.97-3.87 s)
+  beast_titan/grab.wav           https://www.myinstants.com/media/sounds/zeke-scream-roar.mp3   (first 1.6 s)

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local TTS/transcription tooling (~6 GB); keep only the voice scripts and reference voices
+.tools/*
+!.tools/voice/
+.tools/voice/*
+!.tools/voice/*.py
+!.tools/voice/*.sh
+!.tools/voice/ref_*.wav
+!.tools/voice/reference_*.wav
+
+# Rendered output (reproducible from seeds)
+videos/
+
+# Piper TTS model (downloaded by announcer_gen)
+sounds/announcer/.model/

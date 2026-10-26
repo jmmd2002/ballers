@@ -1,0 +1,11 @@
+Face photos for the politics roster, from Wikimedia Commons.
+
+flavio.jpg  "Foto oficial do senador Flávio Bolsonaro (v. AgSen)"
+            Author: Agência Senado. License: Attribution (credit Agência Senado).
+            https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen).jpg
+
+lula.jpg    "Foto oficial de Luiz Inácio Lula da Silva (quadrada)"
+            Author: Ricardo Stuckert / Palácio do Planalto. License: CC BY 2.0.
+            https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(quadrada).jpg
+
+Both require attribution: credit them in the video description when posting.
